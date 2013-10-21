@@ -1,6 +1,6 @@
 {
      "name":  "antonellopasella/jquery-barcode"
-  , "description": "Sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development."
+  , "description": "A jQuery plugin for code39 barcodes"
   , "keywords": ["jquery", "plugin", "barcode", "code39"]
   , "homepage": "http://www.pasella.it"
   , "authors": [
